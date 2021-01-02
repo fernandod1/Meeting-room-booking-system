@@ -4,7 +4,7 @@ PHP script to manage a meeting room booking system.
 
 Features:
 
-- Calendar added to select any date.
+- Added calendar to select any date.
 - Script configured to assign best room acording to number of persons and capability.
 - Not MySQL database required. Data stored in plain text files.
 
